@@ -98,7 +98,7 @@ Telah disediakan 1 perusahaan contoh (**PT Nusantara Demo Corp**) dengan 3 akun 
 
 ### 2. Kloning & Instalasi
 ```bash
-git clone https://github.com/SoraDev-ID/rekap-excel-otomatis.git
+git clone https://github.com/SoraaaID/rekap-excel-otomatis.git
 cd rekap-excel-otomatis
 npm install
 ```
