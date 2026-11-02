@@ -4,6 +4,18 @@ Aplikasi web full-stack untuk pengolahan, pembersihan, dan agregasi ringkasan da
 
 ---
 
+## 🖼️ Tampilan Aplikasi
+
+**Halaman Utama (Landing Page)**
+
+![Landing Page](assets/landing.png)
+
+**Halaman Login — dilengkapi tombol akun demo cepat (Admin, Staff 1, Staff 2)**
+
+![Halaman Login](assets/login.png)
+
+---
+
 ## 🏛️ Arsitektur Sistem
 
 Aplikasi dibangun menggunakan arsitektur modern berbasis Next.js 14 App Router yang terintegrasi langsung dengan Supabase Managed PostgreSQL dan Cloud Storage.
